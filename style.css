@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.footer{
+    background: #0B0D17;
+}
+.footerLTop{
+    display: flex;
+    align-items: center;
+    padding-left: 0 !important;
+}
+
+.footerLTop li{
+    list-style: none;
+    padding-right: 30px;
+    color: white;
+}
+.footerLbottom{
+    display: flex;
+    align-items: center;
+    padding-left: 0!important;
+}
+
+.footerLbottom li{
+    list-style: none;
+    padding-right: 30px;
+    color: white;
+}
+
+.footerP{
+    font-size: 16px;
+    color: white;
+    padding-left: 0 !important;
+
+}
+
+.footerBannerText{
+    color: white;
+    margin-right: 139px;
+}
+
+/* .ms-md-5 {
+    margin-left: 24rem !important;
+} */
